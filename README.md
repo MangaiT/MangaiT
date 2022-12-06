@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Mangayarkarasi
-- ⚡️ I’m interested in Big data technology
+- 👋 Hey there! I’m Maggy
+- ⚡️ Interested in Big data stuff
 - 🌱 I’m currently working in Cloudera as a Staff Customer Operations Engineer
+- 📚 Reads novels in free time
 
 <!---
 MangaiT/MangaiT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
