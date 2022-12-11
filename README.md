@@ -1,4 +1,4 @@
-- 👋 Hey there! I’m Maggy
+- 👋 Hey there! This Maggy's Git profile!
 - ⚡️ Maggy is interested in Big data stuff
 - 🌱 She is a Staff Customer Operations Engineer in Cloudera
 - 📚 She reads novels in the free time
