@@ -1,7 +1,7 @@
 - 👋 Hey there! I’m Maggy
-- ⚡️ Interested in Big data stuff
-- 🌱 I’m currently working in Cloudera as a Staff Customer Operations Engineer
-- 📚 Reads novels in the free time
+- ⚡️ Maggy is interested in Big data stuff
+- 🌱 She is a Staff Customer Operations Engineer in Cloudera
+- 📚 She reads novels in the free time
 
 <!---
 MangaiT/MangaiT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
